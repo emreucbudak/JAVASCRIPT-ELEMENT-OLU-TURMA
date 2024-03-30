@@ -1,0 +1,15 @@
+#todolistekle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+}
+#todolist {
+    margin-top: 5vh;
+}
+#todolistbul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+}
